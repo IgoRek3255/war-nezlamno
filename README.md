@@ -180,8 +180,8 @@ src/
 
 ## 📧 Контакти
 
-- Email: contact@warnezlamno.ua
-- GitHub: [warnezlamno](https://github.com)
+- Email: contact@warnezlamno.com.ua
+- GitHub: [warnezlamno](https://github.com/IgoRek3255/war-nezlamno)
 
 ## 🙏 Подяка
 
@@ -189,5 +189,5 @@ src/
 
 ---
 
-**Важливо:** Дана платформа безплатна та відкрита для всіх громадян України. Будемо вдячні за поширення інформації про сервіс.
+**Важливо:** Ця платформа є безкоштовною та відкритою усіх охочих. Буду вдячний за ваш фідбек, та форк цього проєкту.
 #
